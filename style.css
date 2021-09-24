@@ -1,0 +1,28 @@
+* {
+    background-color: #D3F593;
+    color: #495931;
+    font-family: 'Press Start 2P', cursive;
+    text-transform: uppercase;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 95vh;
+    width: 95;
+}
+
+button {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    background: #AFCC7A;
+}
+
+.hide {
+    display: none;
+}
